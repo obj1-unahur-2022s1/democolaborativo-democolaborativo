@@ -14,7 +14,7 @@ class ProfesionalAsociado {
 class ProfesionalVinculado {
 	var property universidad
 	
-	method universidad(univ) { universidad = univ }
+	method universidad(univ) { universidad = univ } // setea Universidad
 }
 
 
