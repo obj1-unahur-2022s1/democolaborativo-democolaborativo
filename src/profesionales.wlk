@@ -7,7 +7,7 @@ class ProfesionalAsociado {
 	
 	method provinciasDondePuedeTrabajar() = #{"Entre Ríos", "Corrientes", "Santa Fe", "Buenos Aires"}
 	
-	method honorariosPorHora() = 3000
+	method honorariosPorHora() = 2500
 }
 
 
