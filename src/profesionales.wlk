@@ -25,5 +25,5 @@ class ProfesionalLibre {
 	var universidad
 	
 	method universidad() = universidad
-	method universidad(univ) { universidad = univ }
+	method universidad(univ) { universidad = univ } // setea Universidad
 }
