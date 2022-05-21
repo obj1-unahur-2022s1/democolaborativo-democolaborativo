@@ -5,7 +5,7 @@ class ProfesionalAsociado {
 	method universidad() = universidad 
 	method universidad(univ) { universidad = univ }
 	
-	method provinciasDondePuedeTrabajar() = #{"Entre Ríos", "Corrientes", "Santa Fe"}
+	method provinciasDondePuedeTrabajar() = #{"Entre Ríos", "Corrientes", "Santa Fe", "Buenos Aires"}
 	
 	method honorariosPorHora() = 3000
 }
